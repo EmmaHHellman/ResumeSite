@@ -1,0 +1,25 @@
+.heading {
+  color: blue;
+  font-style: italic;
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.work {
+  font-family: Helvetica;
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.education {
+  font-family: Helvetica;
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.technical {
+  font-family: Helvetica;
+  font-size: 25px;
+  line-height: 30px;
+}
